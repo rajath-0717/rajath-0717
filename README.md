@@ -57,7 +57,7 @@ const rajath = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect With Me
 
 <p>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/rajath-shettigar-742111295/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rajath-0717">
@@ -66,7 +66,7 @@ const rajath = {
   <a href="mailto:rajath.connectme@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://rajath.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
