@@ -20,7 +20,7 @@
 
 ```ts
 const rajath = {
-  role:        "Software Engineer Intern @ MicroDegree",
+  role:        "Jr Software Engineer MicroDegree",
   education:   "MCA, Srinivas University Mangalore (CGPA 9.82)",
   focus:       ["Full Stack Web", "AI / GenAI apps", "Developer Tools"],
   currently:   "Shipping production-grade apps with Next.js + Gemini API",
